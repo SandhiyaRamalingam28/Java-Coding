@@ -1,2 +1,2 @@
-# Java---Capgemini
+# Java Codings
 Training questions
